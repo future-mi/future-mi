@@ -30,4 +30,4 @@
   </p>
   
 ![future-mi GitHub stats](https://github-readme-stats.vercel.app/api?username=future-m&theme=flag-india&show_icons=true)
-![future-mi github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=future-mi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/future-mi)
+![future-mi github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=future-mi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
