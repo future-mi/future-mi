@@ -1,3 +1,4 @@
+<div align=center>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+Print&color=%23F79E1F&center=%EA%B1%B0%EC%A7%93%EC%9D%98&vCenter=%EA%B1%B0%EC%A7%93%EC%9D%98&multiline=true&lines=%F0%9F%92%96I+want+with+you+in+my+future%F0%9F%92%96)
 
@@ -29,3 +30,4 @@
   
 ![future-mi GitHub stats](https://github-readme-stats.vercel.app/api?username=future-m&theme=flag-india&show_icons=true)
 ![future-mi github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=future-mi&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+</div>
