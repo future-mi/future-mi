@@ -6,7 +6,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=flag-india)
 
 <p align="center">
-📚Self-study📚 
+📚Self-study(Stack)📚 
  <p align="center">
  <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
