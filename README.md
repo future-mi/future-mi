@@ -26,6 +26,7 @@
 
  <p align="center">
    <img src="https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&logoColor=white"> 
   
 🎨Design🎨
 <p align="center">
